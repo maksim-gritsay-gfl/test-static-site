@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.moodmedia.controller.app",
-               "sha256_cert_fingerprints": ["173eea3887c8b380601714e947440632eeec28ca3fa5a47fd548abfea91bfa76"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moodmedia.controller.app",
+    "sha256_cert_fingerprints":
+    ["31:F8:EB:96:D0:7A:DF:D0:AA:D2:49:7A:3B:49:82:C5:27:8B:2C:26:3A:82:AA:08:49:76:0B:CB:DB:B8:55:55"]
+  }
 }]
